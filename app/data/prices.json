@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-23T09:10:00+07:00",
+  "updatedAt": "2026-11-23T13:29:40+07:00",
   "timezone": "Asia/Jakarta",
   "status": "ok",
   "notes": [
     "Kurs USD JISDOR dan Kurs Transaksi diambil dari web service resmi Bank Indonesia.",
     "Nilai tidak diubah. Jika pengambilan gagal, nilai terakhir yang berhasil diambil tetap ditampilkan beserta tanggalnya.",
-    "Harga BBM otomatis belum tersedia: halaman resmi Pertamina tidak menyediakan umpan data yang bisa diambil andal tanpa layanan berbayar. Tidak ada angka BBM yang disusun atau dikira-kira."
+    "Harga BBM otomatis belum tersedia dari umpan resmi yang andal. Tidak ada angka BBM yang disusun atau dikira-kira."
   ],
   "jisdorUsd": {
     "code": "USD",
@@ -56,126 +56,126 @@
     {
       "code": "AED",
       "unit": 1.0,
-      "beli": 4949.13,
-      "jual": 4999.41,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 4951.03,
+      "jual": 5001.47,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "AUD",
       "unit": 1.0,
-      "beli": 12188.11,
-      "jual": 12312.45,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 12139.56,
+      "jual": 12265.24,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "BND",
       "unit": 1.0,
-      "beli": 14097.76,
-      "jual": 14240.56,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 14099.24,
+      "jual": 14243.15,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "CAD",
       "unit": 1.0,
-      "beli": 12687.69,
-      "jual": 12816.1,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 12698.37,
+      "jual": 12828.68,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "CHF",
       "unit": 1.0,
-      "beli": 21555.38,
-      "jual": 21782.36,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 21581.36,
+      "jual": 21806.02,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "CNH",
       "unit": 1.0,
-      "beli": 2726.76,
-      "jual": 2754.41,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 2722.95,
+      "jual": 2751.14,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "CNY",
       "unit": 1.0,
-      "beli": 2727.12,
-      "jual": 2754.82,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 2724.22,
+      "jual": 2752.05,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "DKK",
       "unit": 1.0,
-      "beli": 2670.71,
-      "jual": 2697.75,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 2672.34,
+      "jual": 2699.87,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "EUR",
       "unit": 1.0,
-      "beli": 19962.7,
-      "jual": 20165.17,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 19974.35,
+      "jual": 20178.77,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "GBP",
       "unit": 1.0,
-      "beli": 23910.88,
-      "jual": 24156.71,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 23849.92,
+      "jual": 24091.45,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "HKD",
       "unit": 1.0,
-      "beli": 2317.16,
-      "jual": 2340.48,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 2319.75,
+      "jual": 2343.21,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "JPY",
       "unit": 100.0,
-      "beli": 11380.95,
-      "jual": 11496.78,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 11423.75,
+      "jual": 11539.29,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "KRW",
       "unit": 1.0,
-      "beli": 13.66,
-      "jual": 13.81,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 13.61,
+      "jual": 13.76,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "KWD",
       "unit": 1.0,
-      "beli": 58817.83,
-      "jual": 59428.22,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 58846.82,
+      "jual": 59457.49,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
@@ -184,97 +184,97 @@
       "unit": 1.0,
       "beli": 0.8,
       "jual": 0.82,
-      "date": "2026-11-20T00:00:00+07:00",
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "MYR",
       "unit": 1.0,
-      "beli": 4414.19,
-      "jual": 4462.89,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 4420.13,
+      "jual": 4468.35,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "NOK",
       "unit": 1.0,
-      "beli": 1871.75,
-      "jual": 1890.83,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 1863.48,
+      "jual": 1882.42,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "NZD",
       "unit": 1.0,
-      "beli": 10006.8,
-      "jual": 10109.21,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 10008.09,
+      "jual": 10112.35,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "PGK",
       "unit": 1.0,
-      "beli": 3891.83,
-      "jual": 4243.08,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 3908.3,
+      "jual": 4223.12,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "PHP",
       "unit": 1.0,
-      "beli": 285.26,
-      "jual": 288.6,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 284.83,
+      "jual": 287.98,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "SAR",
       "unit": 1.0,
-      "beli": 4845.56,
-      "jual": 4894.79,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 4847.18,
+      "jual": 4896.55,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "SEK",
       "unit": 1.0,
-      "beli": 1790.46,
-      "jual": 1808.55,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 1786.17,
+      "jual": 1804.25,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "SGD",
       "unit": 1.0,
-      "beli": 14097.76,
-      "jual": 14240.56,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 14099.24,
+      "jual": 14243.15,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "THB",
       "unit": 1.0,
-      "beli": 536.06,
-      "jual": 541.6,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 535.69,
+      "jual": 541.55,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
     {
       "code": "USD",
       "unit": 1.0,
-      "beli": 18177.65,
-      "jual": 18360.35,
-      "date": "2026-11-20T00:00:00+07:00",
+      "beli": 18186.61,
+      "jual": 18369.39,
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     },
@@ -283,7 +283,7 @@
       "unit": 1.0,
       "beli": 0.71,
       "jual": 0.71,
-      "date": "2026-11-20T00:00:00+07:00",
+      "date": "2026-11-23T00:00:00+07:00",
       "source": "Bank Indonesia — Kurs Transaksi",
       "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/Default.aspx"
     }
@@ -294,5 +294,6 @@
     "sourceUrl": "https://www.pertamina.com/id/harga-bbm-terkini",
     "items": [],
     "lastVerified": null
-  }
+  },
+  "fetchErrors": []
 }
