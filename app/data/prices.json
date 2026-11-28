@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:22:43+07:00",
+  "updatedAt": "2026-11-28T08:43:24+07:00",
   "timezone": "Asia/Jakarta",
   "status": "ok",
   "notes": [
@@ -10,16 +10,11 @@
   "jisdorUsd": {
     "code": "USD",
     "unit": 1.0,
-    "value": 18390.0,
-    "date": "2026-11-26T00:00:00+07:00",
+    "value": 18375.0,
+    "date": "2026-11-27T00:00:00+07:00",
     "source": "Bank Indonesia — JISDOR (Jakarta Interbank Spot Dollar Rate)",
     "sourceUrl": "https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/Default.aspx",
     "history": [
-      {
-        "date": "2026-11-18T00:00:00+07:00",
-        "unit": 1.0,
-        "value": 18252.0
-      },
       {
         "date": "2026-11-19T00:00:00+07:00",
         "unit": 1.0,
@@ -49,6 +44,11 @@
         "date": "2026-11-26T00:00:00+07:00",
         "unit": 1.0,
         "value": 18390.0
+      },
+      {
+        "date": "2026-11-27T00:00:00+07:00",
+        "unit": 1.0,
+        "value": 18375.0
       }
     ]
   },
